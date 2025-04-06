@@ -1,54 +1,26 @@
 ## Você me achou 👋
 
-## 💻 Linguagens e Tecnologias
+## 💻 Tecnologias & Ferramentas
 
 ### 🖥️ Frontend
-- **Linguagens:**  
-  HTML, CSS, JavaScript, TypeScript, PHP, C, C++, Java, Python, Kotlin
-- **Frameworks & Bibliotecas:**  
-  React, Next.js, Vue
-- **Estilização:**  
-  Tailwind CSS, shadcn/ui
-- **Visualização de Dados:**  
-  Chart.js, react-chartjs-2
-- **Autenticação:**  
-  NextAuth.js
-- **Exportação de Dados:**  
-  jsPDF, html2canvas, PapaParse
-
----
+HTML, CSS, JavaScript, TypeScript, PHP, C/C++, Java, Python, Kotlin  
+React, Next.js, Vue, Tailwind CSS, shadcn/ui  
+Chart.js, react-chartjs-2, NextAuth.js  
+jsPDF, html2canvas, PapaParse
 
 ### 🔧 Backend
-- **Linguagens & Frameworks:**  
-  Node.js (Express), Python (Flask, FastAPI), Java (Spring Boot), C# (.NET), PHP (Laravel)
-- **Banco de Dados:**  
-  MySQL, PostgreSQL, MongoDB
-- **APIs:**  
-  Desenvolvimento e consumo de APIs RESTful, integração com Open Food Facts API
-- **Autenticação:**  
-  JWT, OAuth 2.0, autenticação com Google, GitHub etc.
-- **Testes:**  
-  Testes unitários e de integração (Jest, xUnit)
-- **DevOps:**  
-  Docker, Git, GitHub, CI/CD (GitHub Actions), deploy com Vercel, Railway, Render, Docker + VPS
+Node.js (Express), Python (Flask/FastAPI), Java (Spring Boot), C# (.NET), PHP (Laravel)  
+MySQL, PostgreSQL, MongoDB  
+RESTful APIs, JWT, OAuth 2.0, login com Google/GitHub  
+Testes (Jest, xUnit), Docker, CI/CD, Vercel, Railway, VPS
 
----
-
-### 🧰 Ferramentas e Outros
-- **Design/UI:**  
-  Figma (nível avançado)
-- **Controle de Versão:**  
-  Git, GitHub
-- **Ambientes de Teste:**  
-  Postman, Insomnia
-- **Produtividade:**  
-  Excel/Office (nível intermediário – Instituto Bradesco)
-
----
+### 🧰 Outros
+Figma (avançado), Git/GitHub, Postman, Insomnia  
+Excel/Office (intermediário – Instituto Bradesco)
 
 ### 🌐 Idiomas
-- **Inglês:**  
-  Avançado (95%) — baseado em testes de proficiência (TRI, Gupy, Indeed)
+Inglês Avançado (95% — TRI, Gupy, Indeed)
+
 
 
 <!--
