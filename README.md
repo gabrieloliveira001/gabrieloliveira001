@@ -1,7 +1,8 @@
 ## Olá, você me achou 👋
 
 <p align="center">
-Sou apaixonado por <strong>desenvolvimento web</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e até brinco de ser <strong>dev de Minecraft</strong> criando plugins 👾  
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino.
+Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft Dev</strong> nas horas vagas criando plugins para servidores.
 
 </p>
 
@@ -61,9 +62,8 @@ Sou apaixonado por <strong>desenvolvimento web</strong>, <strong>Java</strong>, 
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-de-oliveira-72259a359)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielmoraisdeoliveira222@gmail.com)
 
 ---
 
