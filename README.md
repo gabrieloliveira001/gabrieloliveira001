@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino. <br>
-  Sou fissurado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para servidores.
+  Tenho conhecimento em <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para servidores.
 </p>
 
 ---
