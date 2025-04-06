@@ -33,7 +33,7 @@ Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
 
-🚀 Pilotar foguete? ❌
+
 
 ---
 
@@ -47,14 +47,15 @@ Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, 
 
 ### 📈 Extras e Experiências
 
-- 📱 Desenvolvimento fullstack com foco em aplicações web modernas  
-- 🔐 APIs REST com autenticação (JWT, OAuth)  
-- 🧪 Testes com Postman e Insomnia  
-- 🖼️ Criação de interfaces no Figma com foco em UX  
-- 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse)  
-- 🧱 Desenvolvimento de plugins para servidores Minecraft usando Java  
-- ☕️ Viciado em café e em código (nessa ordem)  
-- 🧠 Inglês avançado — 95% nos testes TRI, Gupy e Indeed  
+- 🧠 Inglês avançado — 95% nos testes TRI, Gupy e Indeed ✅
+- 📱 Desenvolvimento fullstack com foco em aplicações web modernas ✅
+- 🔐 APIs REST com autenticação (JWT, OAuth) ✅
+- 🧪 Testes com Postman e Insomnia  ✅
+- 🖼️ Criação de interfaces no Figma com foco em UX ✅
+- 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse) ✅
+- 🧱 Desenvolvimento de plugins e skripts para servidores Minecraft usando Java e SK ✅
+- ☕️ Experiente em se frustrar com Java
+- ✈ Pilotar avião ❌
 
 ---
 
