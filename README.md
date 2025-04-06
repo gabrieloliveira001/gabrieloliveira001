@@ -1,7 +1,7 @@
 ## Olá, você me achou 👋
 
 <p align="center">
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino.  
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino. <br>
 Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft Dev</strong> nas horas vagas criando plugins para servidores.
 </p>
 
