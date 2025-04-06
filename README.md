@@ -65,4 +65,4 @@
 
 ---
 
-🔗 *Sempre pronto pra novos desafios, projetos open-source e ideias que envolvam café, código ou cubos (de Minecraft também serve).*
+🔗 *Sempre pronto pra novos desafios, projetos open-source, no-code, ou até design.*
