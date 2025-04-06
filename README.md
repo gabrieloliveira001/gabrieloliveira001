@@ -1,9 +1,8 @@
 ## Olá, você me achou 👋
 
 <p align="center">
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino.
+Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino.  
 Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft Dev</strong> nas horas vagas criando plugins para servidores.
-
 </p>
 
 ---
@@ -34,7 +33,8 @@ Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
 
-🚀 Pilotar foguete? Ainda não… mas com um pouco de JS a gente tenta!
+🚀 Pilotar foguete? ❌
+
 ---
 
 ### 📚 Formação
@@ -45,24 +45,22 @@ Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, 
 
 ---
 
-### 📈 Conhecimentos Gerais
+### 📈 Extras e Experiências
 
-- **Frontend:** HTML, CSS, JS, TS, React, Next.js, Vue, Tailwind  
-- **Backend:** Node.js, Python (Flask/FastAPI), Java (Spring), C# (.NET)  
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
-- **Extras:** APIs REST, JWT, OAuth, Docker, Git, CI/CD  
-- **UI/UX:** Design com Figma  
-- **Testes:** Postman, Insomnia  
-- **Exportação de Dados:** jsPDF, html2canvas, PapaParse  
-- **Minecraft:** Desenvolvimento de plugins com Java 🧱  
-- **Office/Excel:** Intermediário (certificado pelo Instituto Bradesco)  
-- **Inglês:** Avançado (95%) segundo testes TRI, Gupy e Indeed
+- 📱 Desenvolvimento fullstack com foco em aplicações web modernas  
+- 🔐 APIs REST com autenticação (JWT, OAuth)  
+- 🧪 Testes com Postman e Insomnia  
+- 🖼️ Criação de interfaces no Figma com foco em UX  
+- 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse)  
+- 🧱 Desenvolvimento de plugins para servidores Minecraft usando Java  
+- ☕️ Viciado em café e em código (nessa ordem)  
+- 🧠 Inglês avançado — 95% nos testes TRI, Gupy e Indeed  
 
 ---
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-de-oliveira-72259a359)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-de-oliveira-72259a359)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielmoraisdeoliveira222@gmail.com)
 
 ---
