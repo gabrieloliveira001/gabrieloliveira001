@@ -1,4 +1,4 @@
-## Você me achou 👋
+## Olá, você me achou 👋
 
 ## 💻 Tecnologias & Ferramentas
 
