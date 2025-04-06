@@ -1,8 +1,8 @@
 ## Olá, você me achou 👋
 
 <p align="center">
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino. <br>
-Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft Dev</strong> nas horas vagas criando plugins para servidores.
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino. <br>
+  Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e <strong>Minecraft Dev</strong> nas horas vagas criando plugins para servidores.
 </p>
 
 ---
@@ -32,8 +32,8 @@ Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-
-
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=fff)
+![Office](https://img.shields.io/badge/-Office-D83B01?style=flat&logo=microsoft-office&logoColor=fff)
 
 ---
 
@@ -47,15 +47,15 @@ Sou apaixonado por <strong>Java</strong>, <strong>desenvolvimento web</strong>, 
 
 ### 📈 Extras e Experiências
 
-- 🧠 Inglês avançado — 95% nos testes TRI, Gupy e Indeed ✅
-- 📱 Desenvolvimento fullstack com foco em aplicações web modernas ✅
-- 🔐 APIs REST com autenticação (JWT, OAuth) ✅
-- 🧪 Testes com Postman e Insomnia  ✅
-- 🖼️ Criação de interfaces no Figma com foco em UX ✅
-- 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse) ✅
-- 🧱 Desenvolvimento de plugins e skripts para servidores Minecraft usando Java e SK ✅
-- ☕️ Experiente em se frustrar com Java
-- ✈ Pilotar avião ❌
+- 🧠 Inglês avançado — 95% nos testes TRI, Gupy e Indeed ✅  
+- 📱 Desenvolvimento fullstack com foco em aplicações web modernas ✅  
+- 🔐 APIs REST com autenticação (JWT, OAuth) ✅  
+- 🧪 Testes com Postman e Insomnia ✅  
+- 🖼️ Criação de interfaces no Figma com foco em UX ✅  
+- 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse) ✅  
+- 🧱 Desenvolvimento de plugins e skripts para servidores Minecraft usando Java e SK ✅  
+- ☕️ Experiente em se frustrar com Java  
+- ✈ Pilotar avião ❌  
 
 ---
 
