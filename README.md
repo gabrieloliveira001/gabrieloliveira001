@@ -2,7 +2,7 @@
 
 <p align="center">
 Sou apaixonado por <strong>desenvolvimento web</strong>, <strong>Java</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e até brinco de ser <strong>dev de Minecraft</strong> criando plugins 👾  
-Atualmente estudo <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino.
+
 </p>
 
 ---
@@ -17,7 +17,6 @@ Atualmente estudo <strong>Análise e Desenvolvimento de Sistemas</strong> na UNI
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)
-🚀 Pilotar foguete? Ainda não… mas com um pouco de JS a gente tenta!
 
 #### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
@@ -26,7 +25,6 @@ Atualmente estudo <strong>Análise e Desenvolvimento de Sistemas</strong> na UNI
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-☕️ Java developer sim! Café incluso.
 
 #### 🛠️ Outras Ferramentas
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
@@ -34,8 +32,8 @@ Atualmente estudo <strong>Análise e Desenvolvimento de Sistemas</strong> na UNI
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-🎨 Designer wannabe no Figma — mas com orgulho!
 
+🚀 Pilotar foguete? Ainda não… mas com um pouco de JS a gente tenta!
 ---
 
 ### 📚 Formação
