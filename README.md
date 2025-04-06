@@ -67,4 +67,4 @@
 
 ---
 
-🔗 *Sempre pronto pra novos desafios, projetos open-source, no-code, ou até design.*
+🔗 *Sempre pronto pra novos desafios, projetos open-source, no-code, design, ou até jogos.*
