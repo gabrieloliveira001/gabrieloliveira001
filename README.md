@@ -1,4 +1,4 @@
-## Olá, você me achou 👋
+## Procurando por um desenvolvedor? 👋
 
 <p align="center">
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino. <br>
