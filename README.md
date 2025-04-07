@@ -5,6 +5,12 @@
   Tenho conhecimento em <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e sou <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para servidores.
 </p>
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-de-oliveira-72259a359)  [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabrielmoraisdeoliveira222@gmail.com)
+
+</div>
+
 ---
 
 ### 🧠 Meu conhecimento?
