@@ -47,8 +47,8 @@
 
 ### 📚 Formação
 
-- 🎓 **ADS - UNIP (2023 - 2025)** — Cursando, último bimestre  
-- 🎓 **ETEC João Belarmino (2020 - 2022)** — Técnico em Desenvolvimento de Sistemas  
+- 🎓 **Análise e desenvolvimento de sistemas - UNIP (2023 - 2025)** — Cursando, último bimestre  
+- 🎓 **ETEC João Belarmino (2020 - 2022)** — Técnico Análise e Desenvolvimento de Sistemas  
 - 🛠️ **Instituto Stefanini (2020)** — Montagem e Manutenção de Computadores  
 
 ---
