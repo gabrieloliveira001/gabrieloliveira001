@@ -36,15 +36,18 @@
 
 
 #### ⛏ Minecraft Plugin Development
+
 Além do conhecimento em Java, no momento trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
 - **APIs:** Bukkit, Spigot e Paper (para maior compatibilidade e performance);
 - **Linguagem Skript:** Para criação de scripts simples e customizados;
 - **Integrações:** Ferramentas que otimizam a criação e manutenção dos plugins.
 
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)](https://www.java.com)
 [![Bukkit](https://img.shields.io/badge/-Bukkit-ED8B00?style=flat&logoColor=fff)](https://dev.bukkit.org/)
 [![Spigot](https://img.shields.io/badge/-Spigot-007ACC?style=flat&logoColor=fff)](https://www.spigotmc.org/wiki/spigot-installation/)
 [![Paper](https://img.shields.io/badge/-Paper-FFA500?style=flat&logoColor=fff)](https://papermc.io/)
 [![Skript](https://img.shields.io/badge/-Skript-4A90E2?style=flat&logoColor=fff)](https://docs.skriptlang.org/)
+[![Java Plugin](https://img.shields.io/badge/-Java%20Plugin-ED8B00?style=flat&logo=java&logoColor=fff)](https://www.java.com)
 
 #### 🛠️ Outras Ferramentas
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)](https://www.figma.com)
