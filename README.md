@@ -35,8 +35,8 @@
 ![Google API](https://img.shields.io/badge/-Google%20Auth-4285F4?style=flat&logo=google&logoColor=fff)
 
 
-#### 🎮 Minecraft Plugin Development
-Além do conhecimento em Java, trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
+#### ⛏ Minecraft Plugin Development
+Além do conhecimento em Java, no mommento trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
 - **APIs:** Bukkit, Spigot e Paper (para maior compatibilidade e performance);
 - **Linguagem Skript:** Para criação de scripts simples e customizados;
 - **Integrações:** Ferramentas que otimizam a criação e manutenção dos plugins.
