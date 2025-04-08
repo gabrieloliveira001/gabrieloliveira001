@@ -44,7 +44,7 @@ Além do conhecimento em Java, no momento trabalho com o desenvolvimento de plug
 ![Bukkit](https://img.shields.io/badge/-Bukkit-ED8B00?style=flat&logoColor=fff)
 ![Spigot](https://img.shields.io/badge/-Spigot-007ACC?style=flat&logoColor=fff)
 ![Paper](https://img.shields.io/badge/-Paper-FFA500?style=flat&logoColor=fff)
-![Skript](https://img.shields.io/badge/-Skript-4A90E2?style=flat&logoColor=fff)
+[![Skript](https://img.shields.io/badge/-Skript-4A90E2?style=flat&logoColor=fff)](https://docs.skriptlang.org/)
 
 #### 🛠️ Outras Ferramentas
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
