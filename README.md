@@ -25,14 +25,26 @@
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)
 
 #### 🔧 Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
 ![Google API](https://img.shields.io/badge/-Google%20Auth-4285F4?style=flat&logo=google&logoColor=fff)
+
+
+#### 🎮 Minecraft Plugin Development
+Além do conhecimento em Java, trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
+- **APIs:** Bukkit, Spigot e Paper (para maior compatibilidade e performance);
+- **Linguagem Skript:** Para criação de scripts simples e customizados;
+- **Integrações:** Ferramentas que otimizam a criação e manutenção dos plugins.
+
+![Bukkit](https://img.shields.io/badge/-Bukkit-ED8B00?style=flat&logoColor=fff)
+![Spigot](https://img.shields.io/badge/-Spigot-007ACC?style=flat&logoColor=fff)
+![Paper](https://img.shields.io/badge/-Paper-FFA500?style=flat&logoColor=fff)
+![Skript](https://img.shields.io/badge/-Skript-4A90E2?style=flat&logoColor=fff)
 
 #### 🛠️ Outras Ferramentas
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
