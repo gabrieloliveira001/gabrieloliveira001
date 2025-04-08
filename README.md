@@ -36,7 +36,7 @@
 
 
 #### ⛏ Minecraft Plugin Development
-Além do conhecimento em Java, no mommento trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
+Além do conhecimento em Java, no momento trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
 - **APIs:** Bukkit, Spigot e Paper (para maior compatibilidade e performance);
 - **Linguagem Skript:** Para criação de scripts simples e customizados;
 - **Integrações:** Ferramentas que otimizam a criação e manutenção dos plugins.
