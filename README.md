@@ -1,8 +1,8 @@
 ## Procurando por um desenvolvedor? Olá, me chamo Gabriel👋
 
 <p align="center">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, e tenho formação técnica em <strong>Análise e Desenvolvimento de Sistemas</strong> pela ETEC João Belarmino. <br>
-  Tenho conhecimento em <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e sou <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para servidores.
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, e tenho formação técnica em <strong>Análise e Desenvolvimento de Sistemas</strong> pela ETEC João Belarmino.
+  Tenho bastante conhecimento em <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e sou <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para servidores.
 </p>
 
 <div align="center">
