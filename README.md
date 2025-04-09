@@ -1,4 +1,4 @@
-## Procurando por um desenvolvedor? 👋
+## Procurando por um desenvolvedor? Olá, me chamo Gabriel👋
 
 <p align="center">
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, com formação técnica pela ETEC João Belarmino. <br>
