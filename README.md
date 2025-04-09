@@ -39,7 +39,8 @@
 
 Além do conhecimento em Java, no momento trabalho com o desenvolvimento de plugins e skripts para servidores de Minecraft utilizando:
 - **APIs:** Bukkit, Spigot e Paper (para maior compatibilidade e performance);
-- **Linguagem Skript:** Para criação de scripts simples e customizados;
+- **Linguagem Java:** Para criação de plugins robustos e altamente customizáveis
+- **Linguagem Skript:** Para scripts simples e rápidos de implementar
 - **Integrações:** Ferramentas que otimizam a criação e manutenção dos plugins.
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)](https://www.java.com)
