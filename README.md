@@ -1,7 +1,7 @@
 ## Procurando por um desenvolvedor? Olá, me chamo Gabriel👋
 
 <p align="center">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, e tenho formação técnica em <strong>Análise e Desenvolvimento de Sistemas</strong> pela ETEC João Belarmino.<br>
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, e tenho formação técnica em <strong>Análise e Desenvolvimento de Sistemas</strong> pela ETEC João Belarmino.<br>IntelliJ user.<br>
   Tenho bastante conhecimento sobre <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e sou <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para diversos servidores.
 </p>
 
@@ -78,7 +78,7 @@ Além do conhecimento em Java, no momento trabalho com o desenvolvimento de plug
 - 🖼️ Criação de interfaces no Figma com foco em UX ✅  
 - 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse) ✅  
 - 🧱 Desenvolvimento de plugins e skripts para servidores Minecraft usando Java e SK ✅  
-- ☕️ Experiente em se frustrar com Java ✅  
+- ☕️ Experiência avançada em Java ✅  
 - ✈ Pilotar avião ❌  
 
 ---
