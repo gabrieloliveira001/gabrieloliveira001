@@ -24,9 +24,10 @@
 
 ### 📈 Extras e Experiências
 
+- 🤖 Testes com IA e automação ✅
 - 🧠 Inglês avançado — 95% nos testes TRI, Gupy e Indeed ✅  
 - 📱 Desenvolvimento fullstack com foco em aplicações web modernas ✅  
-- 🔐 APIs REST com autenticação (JWT, OAuth, Google Auth) ✅  
+- 🔐 APIs REST com autenticação (JWT, OAuth, Google Auth) ✅
 - 🧪 Testes com Postman e Insomnia ✅  
 - 🖼️ Criação de interfaces no Figma com foco em UX ✅  
 - 📦 Exportação de dados em PDF/CSV (jsPDF, html2canvas, PapaParse) ✅  
@@ -42,4 +43,4 @@
 
 ---
 
-🔗 *Sempre pronto pra novos desafios, projetos open-source, no-code, design, ou até jogos.*
+🔗 *Sempre pronto pra novos desafios, projetos open-source, no-code, design, IA ou até jogos.*
