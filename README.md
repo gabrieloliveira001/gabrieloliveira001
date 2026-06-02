@@ -1,6 +1,6 @@
 ## Looking for a developer? Hi, im Gabriel👋
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7542E&width=435&separator=%3C&lines=Java+Developer;)](https://git.io/typing-svg)
+<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7542E&width=435&separator=%3C&lines=Java+Developer;)](https://git.io/typing-svg) </div>
   
 <p align="center">IntelliJ user.<br></p>
 
