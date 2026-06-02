@@ -1,8 +1,7 @@
-## Procurando por um desenvolvedor? Olá, me chamo Gabriel👋
+## Looking for a developer? Hi, im Gabriel👋
 
 <p align="center">
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIP, e tenho formação técnica em <strong>Análise e Desenvolvimento de Sistemas</strong> pela ETEC João Belarmino.<br>
-  Tenho bastante conhecimento sobre <strong>Java</strong>, <strong>desenvolvimento web</strong>, <strong>Python</strong>, <strong>design com Figma</strong> e sou <strong>Minecraft DEV</strong> nas horas vagas criando plugins e skripts para diversos servidores.
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7542E&width=435&separator=%3C&lines=Java+Developer;)](https://git.io/typing-svg)
 </p>
 <p align="center">IntelliJ user.<br></p>
 
