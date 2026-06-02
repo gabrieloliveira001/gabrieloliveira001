@@ -1,7 +1,7 @@
-## Looking for a developer? Hi, im Gabriel👋
-
-<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7542E&width=435&separator=%3C&lines=Java+Developer;)](https://git.io/typing-svg) </div>
-  
+<h1 align="center">Looking for a developer? Hii, I'm Gabriel 👋</h2>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F7542E&center=true&width=435&separator=%3C&lines=Java+Developer;" alt="Typing SVG" /></a>
+</p>
 <p align="center">IntelliJ user.<br></p>
 
 <div align="center">
