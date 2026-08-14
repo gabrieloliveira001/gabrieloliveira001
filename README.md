@@ -1,4 +1,4 @@
-<h1 align="center">Looking for a developer? Hii, I'm Gabriel 👋</h2>
+<h1 align="center">Looking for a developer? Hi, I'm Gabriel 👋</h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=10000&color=F7542E&center=true&width=435&separator=%3C&lines=Java+Developer;" alt="Typing SVG" />
