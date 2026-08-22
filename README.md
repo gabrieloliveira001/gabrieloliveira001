@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=10000&color=F7542E&center=true&width=435&lines=7%2B+years+of+experience" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">IntelliJ user.<br></p>
+<p align="center">IntelliJ user, Antigravity IDE<br></p>
 
 <div align="center">
   
