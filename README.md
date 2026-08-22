@@ -1,5 +1,4 @@
 <h1 align="center">Looking for a developer? Hi, I'm Gabriel 👋</h2>
-<img src="https://komarev.com/ghpvc/?username=gabrieloliveira001&label=You're%20visitor%20number&color=1F51FF&style=for-the-badge" alt="profile views"/>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=10000&color=F7542E&center=true&width=435&separator=%3C&lines=Java+Developer;" alt="Typing SVG" />
